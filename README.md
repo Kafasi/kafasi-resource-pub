@@ -1,1 +1,3 @@
-# kafasi-resource-pub
+# Kafasi Public Resources
+
+Publicly access resources for any purpose
